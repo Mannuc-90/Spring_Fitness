@@ -8,5 +8,6 @@
 </head>
 <body>
 <h1>${greeting} hehehe</h1>
+<a href="addMinutes.html">Add Minutes Here</a>
 </body>
 </html>
